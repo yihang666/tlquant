@@ -3,7 +3,7 @@ from docx.shared import Inches
 from numpy import unicode
 import tushare as ts
 from jqdatasdk import *
-auth("15336553896","553896")
+auth("user","password")
 import pandas as pd
 import time
 import matplotlib.pyplot as plt
