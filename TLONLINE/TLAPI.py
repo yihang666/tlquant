@@ -1,11 +1,11 @@
 import tushare as ts
 from jqdatasdk import *
-auth("15336553896","553896")
+auth("user","password")
 import  pandas as pd
 import time
 import matplotlib.pyplot as plt
 import datetime
-token = '624f1a291a6d3bec690c866a2ef0c4cc3876e11743ae207221bfed19'
+token = 'token'
 ts.set_token(token)
 
 pro = ts.pro_api()
